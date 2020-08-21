@@ -14,4 +14,4 @@ The main goal is collect classical and solid work of search system in academia a
 
 # Awesome Neural Search Book
 
-- [Deep Learning for Search](https://b-ok.global/book/5010610/f31bc3?regionChanged=&redirect=12064592)
+- [Deep Learning for Search](https://b-ok.global/book/5010610/f31bc3?regionChanged=&redirect=12064592), 2019, Book. 
